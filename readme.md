@@ -1,0 +1,4 @@
+# Quantum Practice Project
+
+## Overview
+The Project is an open-source initiative that explores the use of quantum computing algorithms to solve optimization problems in classical computer systems. This project is designed to provide a foundation for quantum-based approaches to optimization and scheduling tasks, with a focus on efficiency and scalability. Our goal is to integrate classical and quantum computing techniques to achieve superior results in practical applications, such as logistics, resource management, and job scheduling. In future we are planning to compare the implementation of machine learning algorithms on quantum and calssical computer.
